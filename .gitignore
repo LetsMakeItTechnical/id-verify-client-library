@@ -1,0 +1,8 @@
+/.idea
+/.iml
+/.nyc_output
+/node_modules
+nvm-installer
+coverage/
+/practice
+*.env
